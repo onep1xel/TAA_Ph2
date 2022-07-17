@@ -2565,13 +2565,14 @@ h3.project-title{
 }
 .project-attribute .project-label{
 	min-width: 8rem;
-	font-size: 1.3rem;
+	font-size: 1.6rem;
 	font-weight: 700;
 	text-transform: none;
 	display: table-cell;
 }
 .project-attribute .project-value{
 	display: table-cell;
+	font-size: 1.6rem;
 }
 
 /* Folio Filter */
