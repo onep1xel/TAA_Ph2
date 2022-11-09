@@ -77,7 +77,11 @@ button,
 	font-family: 'degular', 'helvetica', 'arial', sans-serif;
 }
 .serif{
-font-family: 'Merriweather', 'georgia', 'times new roman', serif;
+font-family: 'Faustina', 'georgia', 'times new roman', serif;
+}
+
+.sans-serif{
+	font-family: 'degular', 'helvetica', 'arial', sans-serif;
 }
 
 /* Titles */
@@ -3923,7 +3927,7 @@ blockquote.border{
 }
 blockquote cite{
 	font-size: 2rem;
-	font-weight: 700;
+	font-weight: 400;
 	/*text-transform: uppercase;*/
 	color: inherit;
 	font-style: normal;
